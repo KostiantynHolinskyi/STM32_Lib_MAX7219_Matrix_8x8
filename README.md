@@ -5,4 +5,4 @@ STM32 MAX7219 Matrix 8x8
 
 Данная библиотека поддерживает кириллицу.
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
